@@ -13,6 +13,7 @@ Limite de empréstimos por usuário
 Tratamento de exceções específicas
 
 Estrutura do projeto:
+```text
 src/
 ├── Comparator/
 │   ├── ComparadorAutor.java
@@ -28,7 +29,7 @@ src/
 │   ├── Livro.java
 │   └── Usuario.java
 └── Service/
-└── Biblioteca.java
+    └── Biblioteca.java
 
 Conceitos utilizados:
 
